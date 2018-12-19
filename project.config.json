@@ -12,7 +12,7 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.0.4",
-	"appid": "wx5eb0f8c2dcaa9530",
+	"appid": "touristappid",
 	"projectname": "hotel",
 	"isGameTourist": false,
 	"condition": {
